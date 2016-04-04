@@ -24,7 +24,7 @@ Install numpy brainstorm and pillow. Numpy and pillow are required to use images
 sudo pip install numpy brainstorm pillow
 ```
 
-## Testen mit MNIST
+## Test with MNIST
 
 To test the installation a MNIST-project can be used.
 The project can be installed automatically or manually.
